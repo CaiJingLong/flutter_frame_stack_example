@@ -1,8 +1,10 @@
 # frame_stack_demos
 
-A new Flutter project.
+Use `IndexedStack` to cache page.
 
-## Getting Started
+Delayed loading
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+
+使用IndexedStack 实现页面的切换
+
+封装实现懒加载的示例
